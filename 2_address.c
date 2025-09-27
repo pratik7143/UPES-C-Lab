@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     printf("Plot No. 893/894\n");
     printf("Agarwal's Residence\n");
     printf("Punjabi Colony, Satya Nagar\n");
@@ -7,3 +8,4 @@ int main(){
     printf("Pin Code: 751007\n");
     return 0;
 }
+
