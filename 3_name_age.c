@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     char name;
     int age;
     printf("Enter your name: ");
@@ -8,3 +9,4 @@ int main(){
     scanf(" %d", &age);
     return 0;
 }
+
