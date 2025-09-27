@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     int length, breadth;
     printf("Enter lenghth:");
     scanf("%d", &length);
@@ -9,3 +10,4 @@ int main(){
     return 0;
 
 }
+
