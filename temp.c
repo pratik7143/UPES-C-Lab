@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     float c;
     printf("Enter the temperature in Celsius: ");
     scanf("%f", &c);
@@ -8,4 +9,5 @@ int main(){
     printf("The temperature in Fahrenheit is %.2f", f);
     return 0;
 }
+
 
