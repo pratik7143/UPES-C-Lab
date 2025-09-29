@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
     float a, b, c; // a,b,c are the three sides of the triangle
@@ -32,4 +32,5 @@ int main()
         return 0;
     }
 }
+
 
