@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     float a, b, c; // a,b,c are the three sides of the triangle
     printf("Enter threee sides of the triangle: ");
     scanf("%f %f %f", &a, &b, &c);
@@ -31,3 +32,4 @@ int main(){
         return 0;
     }
 }
+
