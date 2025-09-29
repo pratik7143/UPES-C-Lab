@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
     float length1, breadth1, length2, breadth2, length3, breadth3;
     float p1, p2, p3, maxp;
     printf("Enter length and breadth of rectangle 1: ");
@@ -16,3 +17,4 @@ int main() {
     printf("The rectangle with the highest perimeter has perimeter = %f\n", maxp);
     return 0;
 }
+
