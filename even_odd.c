@@ -11,9 +11,9 @@ int main()
     {
         printf("%d is an Odd number\n",num);
     }
-    
     return 0;
 }
+
 
 
 
