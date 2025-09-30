@@ -4,7 +4,6 @@ int main()
 
 
 
-
 {
     printf("Plot No. 893/894\n");
     printf("Agarwal's Residence\n");
@@ -13,5 +12,6 @@ int main()
     printf("Pin Code: 751007\n");
     return 0;
 }
+
 
 
