@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     float length, breadth;
     printf("Enter the length of the rectangle: ");
@@ -10,3 +9,4 @@ int main() {
     printf("Perimeter of Rectangle is %.2f\n", 2*(length+breadth));
     return 0;
 }
+
