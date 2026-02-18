@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int n, i, days = 0, d; // n stores the input year
+    int n, i, days = 0, d; 
     printf("Enter year: ");
     scanf("%d", &n);
     for (i = 1; i < n; i++)
@@ -33,3 +33,4 @@ int main()
         printf("Sunday");
     return 0;
 }
+
